@@ -1,0 +1,10 @@
+AULA 4
+
+ARQUIVOS
+
+- open(): abre um arquivo.
+	- modos de abertura:
+		- R read
+		- W write
+		- A append
+		- ex: open('fileName.txt', 'mode')
